@@ -1,0 +1,26 @@
+{
+  "rs4988235": {
+    "trait": "Lactose Intolerance",
+    "impact": {
+      "CC": "High risk",
+      "CT": "Moderate risk",
+      "TT": "Low risk"
+    }
+  },
+  "rs17561": {
+    "trait": "Inflammatory Acne",
+    "impact": {
+      "TT": "High risk",
+      "CT": "Moderate risk",
+      "CC": "Low risk"
+    }
+  },
+  "rs6152": {
+    "trait": "Androgenic Hair Loss",
+    "impact": {
+      "AA": "High risk",
+      "AG": "Moderate risk",
+      "GG": "Low risk"
+    }
+  }
+}
